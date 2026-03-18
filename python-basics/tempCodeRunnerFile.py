@@ -1,4 +1,3 @@
-if str(x) == str(x)[::-1]:
-    print(True)
-else:
-    print(False)
+    else:
+#         ans = i
+# print(ans)
