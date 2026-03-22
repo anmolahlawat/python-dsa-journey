@@ -67,3 +67,8 @@ for num in arr5:
         result.append(num)
 
 print(result)
+
+
+
+
+
